@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Port Scanner with OS Fingerprinting - FIXED VERSION
+Port Scanner with OS Fingerprinting 
 """
 
 import argparse
@@ -175,3 +175,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
