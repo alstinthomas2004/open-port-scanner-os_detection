@@ -1,0 +1,14 @@
+GOOGLE DNS:
+IP: 8.8.8.8 (Google Public DNS)
+Expected open ports: 53 (DNS)
+Expected OS: Linux/Unix (TTL: 64-65)
+
+CLOUDFARE DNS:
+IP: 1.1.1.1 (Cloudflare DNS)
+Expected open ports: 53 (DNS)
+Expected OS: Linux/Unix
+
+LOCAL NETWORK: 
+IP: 192.168.1.1 or 192.168.0.1 (common router IPs)
+Expected ports: 80 (web admin), 443 (HTTPS)
+
