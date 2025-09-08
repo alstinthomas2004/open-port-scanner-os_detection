@@ -21,6 +21,7 @@ A Python-based network reconnaissance tool that performs fast port scanning and 
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/port-scanner-os-detection.git
+git clone https://github.com/alstinthomas2004/open-port-scanner-os_detection
 cd port-scanner-os-detection
 ```
+
